@@ -1,4 +1,4 @@
-# CSC845 project Mini Chatt
+# CSC845 project Mini Chat
 
 Members: Zhuojun He,  Swetha Govindu
 
