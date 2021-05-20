@@ -8,12 +8,12 @@ To create a chatting app is the goal of our project. We will use python to creat
 This app will contain a server and a client program. The server side holds all the account, password and the other necessary data information. It also handles different requests from the client side. The client side is for different users to connect to the server. This app will have two functions: text messaging between two clients asynchronously and instant chatting between two clients synchronously.   
 
 # Environment
-python version 3.8
-python libraries used: Socket, SMTPLIB, GetPass etc.
+    python version 3.8
+    python libraries used: Socket, SMTPLIB, GetPass etc.
 
 # Configuration
-HOST = '127.0.0.1'  # Standard loopback interface address (localhost)
-PORT = 65432        # Port to listen on (non-privileged ports are > 1023)
+    HOST = '127.0.0.1'  # Standard loopback interface address (localhost)
+    PORT = 65432        # Port to listen on (non-privileged ports are > 1023)
 
 # Acct information: 
     "Swetha", "password": "123"
